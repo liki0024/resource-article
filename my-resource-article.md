@@ -8,6 +8,7 @@ In this article, we'll explore the basics of genetics, how genes work, the role 
 
 ## What are Genes?
 
+
 Genes are the basic units of heredity. They are segments of DNA (Deoxyribonucleic Acid) located on chromosomes inside the cells of every living organism. A gene's primary function is to provide the instructions necessary to create proteins, which carry out most of the functions in cells.
 
 Each human cell, for example, contains about **20,000 to 25,000 genes**, each playing a unique role. Genes are responsible for:
@@ -23,5 +24,7 @@ DNA is a long molecule made up of four chemical bases: **Adenine (A)**, **Thymin
 This code determines how cells build proteins, which are essential for life. The structure of DNA was famously discovered in 1953 by **James Watson** and **Francis Crick**, who described it as a **double helix**.
 
 ```markdown
-![DNA Double Helix](https://example.com/dna_image.jpg)
+![DNA Double Helix](https://example.com/dna_image.jpg)!
+[colorful-human-dna-strand-surrounded-dna-structure-generative-ai-free-photo](https://github.com/user-attachments/assets/83f46f8a-5fb0-426e-a35e-8639707b04e9)
+
 ![image](https://github.com/user-attachments/assets/2a26a446-c255-4fe3-b342-62da4f805bd5)
