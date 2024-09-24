@@ -24,3 +24,4 @@ This code determines how cells build proteins, which are essential for life. The
 
 ```markdown
 ![DNA Double Helix](https://example.com/dna_image.jpg)
+![image](https://github.com/user-attachments/assets/2a26a446-c255-4fe3-b342-62da4f805bd5)
