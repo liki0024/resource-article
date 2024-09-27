@@ -27,4 +27,4 @@ This code determines how cells build proteins, which are essential for life. The
 ![DNA Double Helix](https://example.com/dna_image.jpg)!
 [colorful-human-dna-strand-surrounded-dna-structure-generative-ai-free-photo](https://static.vecteezy.com/system/resources/previews/022/379/220/large_2x/colorful-human-dna-strand-surrounded-dna-structure-generative-ai-free-photo.JPG)
 
-![image](https://github.com/user-attachments/assets/2a26a446-c255-4fe3-b342-62da4f805bd5)
+![genetics]("C:\Users\likit\OneDrive\Pictures\genetics.png")
