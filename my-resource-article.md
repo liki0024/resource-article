@@ -24,5 +24,5 @@ DNA is a long molecule made up of four chemical bases: **Adenine (A)**, **Thymin
 This code determines how cells build proteins, which are essential for life. The structure of DNA was famously discovered in 1953 by **James Watson** and **Francis Crick**, who described it as a **double helix**.
 
 
-![genetics](https://github.com/user-attachments/assets/a5340f4f-0457-485f-a24f-8e7be68ee866)
+![genetics](https://github.com/user-attachments/assets/a5340f4f-0457-485f-a24f-8e7be68ee866/100/100)
 
