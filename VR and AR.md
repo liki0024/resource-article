@@ -30,18 +30,23 @@ India is becoming a significant player in the VR/AR industry, with several compa
 1.Tesseract (Reliance Jio):
 
 * Acquired by Reliance Jio, Tesseract focuses on mixed reality, combining both AR and VR elements. They have developed affordable MR headsets, like the Jio Glass, which allows users to make 3D video calls and interact with holograms.
+
 2.GMetri:
 
 * GMetri provides a no-code platform to create immersive VR and AR experiences for businesses. The platform focuses on enabling industries such as retail, real estate, and education to build and deploy VR/AR content without needing deep technical expertise.
+
 3.AjnaLens:
 
 * AjnaLens specializes in both VR and AR hardware and solutions. They develop immersive hardware, such as their AR glasses, to improve learning and development in fields like defense, education, and manufacturing. The company is also developing technology for training simulations.
+
 4.Scapic:
 
 * Scapic is a cloud-based platform that allows users to create and share AR/VR experiences without writing code. The company focuses on areas like ecommerce (for virtual product experiences) and education. They were acquired by Flipkart to enhance its AR capabilities.
+
 5. Merxius:
 
 * Merxius is an Indian startup that provides AR and VR solutions to industries, with a particular focus on training, education, and industrial simulations. Their flagship product, RED (Real Environments for Design), is a platform for creating virtual environments that allow users to practice complex industrial processes and procedures in a virtual space.
+
 6.SmartVizX:
 
 * Specializing in virtual reality, SmartVizX creates immersive, interactive experiences primarily for architecture, real estate, and design, offering clients virtual walkthroughs of unbuilt spaces, enabling better decision-making in construction projects.
