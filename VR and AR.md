@@ -16,6 +16,8 @@ Virtual Reality (VR) refers to the use of computer technology to create a simula
 
 * VR is used primarily for creating virtual environments where users can interact with objects and spaces as if they are real. It is widely used in gaming, education, and simulations, such as flight training or medical training.
 * AR, on the other hand, is primarily used to enhance reality by adding a layer of digital content. For instance, it can be used for navigation by overlaying directions on real-world streets or in retail to allow users to try on virtual clothes or makeup.
+
+
 3.Hardware:
 
 * VR requires specialized equipment such as headsets and controllers (e.g., Oculus Rift, HTC Vive) to interact with the environment.
